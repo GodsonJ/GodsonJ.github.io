@@ -1,10 +1,7 @@
-# JunJie Wu
-
-### Love is waiting
-
+# JunJie
+## Love is waiting
+[**Gitee**](https://gitee.com/Code_JunJie)
 [**开启阅读**](README.md)
 
-[**Gitee**](https://gitee.com/Code_JunJie )
 
-[Gitee]: https://gitee.com/Code_JunJie
 
